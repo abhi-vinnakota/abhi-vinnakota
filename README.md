@@ -1,6 +1,6 @@
 ### Hi, I'm Abhi! 👋 
 
-I'm currently a highschool senior at the Illinois Math and Science Academy. Please reach out if you want to collaborate on a project, learn more about me, or just talk! 
+I'm currently an undergraduate student at the University of Illinois Urbana-Champaign studying Computer Science. Please reach out if you want to collaborate on a project, or learn more about me! 
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning React and Angular JS
